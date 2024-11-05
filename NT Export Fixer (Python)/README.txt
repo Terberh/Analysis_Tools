@@ -1,4 +1,4 @@
-This python script will take Ninjatrader 8 exported back test data, and ammend the xlsx file to include non-trading days as $0.
+This python script will take Ninjatrader 8 exported back test data, and amend the xlsx file to include non-trading days as $0.
 
 Guide to install with PyCharm
 
